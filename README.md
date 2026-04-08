@@ -1,7 +1,7 @@
-Hardware design engineer with design experience in high-speed digital, analog, and power electronics. 
+Electronics hardware engineer with design experience in high-speed digital, analog, and power electronics. 
 
-- I'm currently working on some board designs for personal projects in embedded microprocessors systems and embedded control systems.
-- My portfolio is currently a work in progress.
+**Current Work-in-Progress Portfolio Projects**
+- 5V-19V Input Power Regulation Board to 3.3V-5V Output
 <!--
 **mrwillparker/mrwillparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
