@@ -1,5 +1,7 @@
-### Hi there 👋
+Hardware design engineer with design experience in high-speed digital, analog, and power electronics. 
 
+- I'm currently working on some board designs for personal projects in embedded microprocessors systems and embedded control systems.
+- My portfolio is currently a work in progress.
 <!--
 **mrwillparker/mrwillparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
